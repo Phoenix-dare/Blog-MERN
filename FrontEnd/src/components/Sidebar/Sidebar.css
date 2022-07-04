@@ -1,0 +1,32 @@
+.sidebar{
+  position:relative;
+}
+.sidebarTitle{
+  padding:0.5rem;
+font-family:sans-serif;
+
+}
+
+
+.sidebarList{
+ 
+  display:flex;
+  flex-flow:row wrap;
+  justify-content:space-evenly;
+border-bottom:2px ridge white;
+border-top:2px ridge white;
+padding:0.5rem;
+
+}
+.sidebarListItem{
+  background:white;
+ color:darkblue;
+border:2px solid lightcyan;
+border-radius:25px;
+box-shadow:0 0 1px 1px navy;
+margin:0.3rem;
+padding:0.2rem 0.5rem;
+
+
+
+}

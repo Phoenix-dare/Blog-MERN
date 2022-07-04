@@ -1,0 +1,1 @@
+{"version":2,"languages":{"nodejs-npm":{"specfileHash":"efc892346d16451298b1cbb89cd44d82","lockfileHash":"78a41a0bf44aab401167ea3ea2b8c461","guessedImports":["cookie-parser","mongoose","express-session","multer","passport-local","cors","express","bcryptjs","passport","morgan","dotenv"],"guessedImportsHash":"494328ad4d418598b5e23f9c6a9d7acc"}}}

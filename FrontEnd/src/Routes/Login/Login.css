@@ -1,0 +1,25 @@
+.login{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  padding:0.5rem;
+}
+label{
+  margin:0.6rem;
+}
+input{
+margin:0.6rem;
+
+}
+.form{
+  display:flex;
+  align-items:center;
+  justify-contents:center;
+  flex-direction:column;
+}
+.loginButton{
+  align-self:center;
+
+
+}

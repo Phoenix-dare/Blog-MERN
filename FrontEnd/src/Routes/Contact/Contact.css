@@ -1,0 +1,22 @@
+.contact{
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+}
+form{
+  display:flex;
+  flex-direction:column;
+}
+.contact-bottom{
+  padding:0.8rem;
+  width:100vw;
+  background:skyblue;
+}
+.social{
+display:flex;
+align-items:center;
+  justify-content:space-evenly;
+position:relative;
+margin-left:calc(50%+10px);
+} 
